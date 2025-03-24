@@ -1,7 +1,7 @@
 */
-const GOOGLE_FORM_ID = "1FAIpQLScbzFT1pxeIkp8yNB3fB7VD9V89Jbitr4h30Q3jXYjy54SlMQ";
-const ENTRY_ID = "entry.258336726";
-const GOOGLE_SHEET_ID = "16jUCXXinqztl3sFdtpWur9yFCAiASDsvmIsF3xHv-BU";
+const GOOGLE_FORM_ID = "1FAIpQLSe50nMu0krHQvzX_YpY_avu59pKKWS0xDYKzLbnJBkVEkAkTw";
+const ENTRY_ID = "entry.515157563";
+const GOOGLE_SHEET_ID = "1kk4tpGaCCLCBJW2r7zzV7_DG7dUbSojXA6ekxUInvo0";
 const DISPLAY_IMAGES = true;
 
 /*
